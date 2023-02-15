@@ -26,11 +26,9 @@ After you're finished please remove all the comments and instructions!
 -->
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+  
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello Microverse Project</b></h3>
 
 </div>
 
@@ -60,38 +58,35 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Headinf-features <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Hello-Mircoverse** is an inspiration to give me more zeal to code and learn more,all learning new techques in solving issues
 
-## 🛠 Built With <a name="built-with"></a>
+## 🛠 Built With HTML and CSS <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack"></a>
+### Tech Stack HTML & CSS <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
-  <summary>Client</summary>
+  <summary>Markup</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://html.org/">HTML</a></li>
+   
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Stying</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://css.org/">CSS</a></li>
   </ul>
 </details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
+
+
 
 <!-- Features -->
 
@@ -99,19 +94,16 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **Heading tag h1**
+- **color properties**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,7 +111,6 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -151,7 +142,7 @@ Example commands:
 ### Install
 
 Install this project with:
-
+open the folder then the index file with your browser
 <!--
 Example command:
 
@@ -161,29 +152,7 @@ Example command:
 ```
 --->
 
-### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
 
 ### Deployment
 
@@ -191,7 +160,7 @@ You can deploy this project using:
 
 <!--
 Example:
-
+Github
 ```sh
 
 ```
@@ -207,15 +176,10 @@ Example:
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: @vanina123(https://github.com/vanina123)
+- Twitter:  @DufeVanina(https://twitter.com/DufeVanina)
+- LinkedIn: @Larissa vanina Dufe(https://www.linkedin.com/in/larissa-vanina-dufe-407a2b25a/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,9 +189,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **build a more classic site**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,7 +210,7 @@ Feel free to check the [issues page](../../issues/).
 
 > Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project, kindly give feedback on what to improve and how it will help in the future
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,7 +220,7 @@ If you like this project...
 
 > Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank my teammates for always standing by me as i walk through this path with them
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -267,13 +230,13 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
+- **What is this project trying to solve?**
 
-  - [Answer_1]
+  - The project is trying to guide everyone on a reponsive site
 
-- **[Question_2]**
+- **Is it reponsive?**
 
-  - [Answer_2]
+  - Not yet but will do so once i have more ideas and feedback
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -283,6 +246,6 @@ I would like to thank...
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
