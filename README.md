@@ -93,12 +93,14 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-
+ https://github.com/vanina123/Hello-microverse.git
+ 
 
 
 ### Install
 
 Install this project with:
+
 open the folder then the index file with your browser
 
 
